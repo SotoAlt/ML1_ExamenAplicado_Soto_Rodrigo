@@ -1,0 +1,3 @@
+modelo,RMSE,MAE,R2,MAPE,R2_train,tiempo_entrenamiento_s,tiempo_inferencia_s
+Random Forest,48901.4813,31683.3875,0.8175,0.1772,0.976,804.3244,0.2963
+Ridge,70093.8394,51452.8302,0.6251,0.3013,0.6695,2.0741,0.0009
