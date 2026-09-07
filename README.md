@@ -92,7 +92,7 @@ Forest tarda aproximadamente 15 minutos en una máquina de 2 núcleos.
 
 ## Video
 
-Enlace al video (máx. 8 min): **[PENDIENTE — pegar enlace aquí antes de entregar]**
+Enlace al video (máx. 8 min, YouTube no listado): **https://youtu.be/8RDWZytHPs8**
 
 ---
 
